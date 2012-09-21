@@ -1,0 +1,48 @@
+body {
+    color: #222;
+    background-color: #fff;
+    font-family: "adobe-garamond-pro-1","adobe-garamond-pro-2", Georgia, serif;
+    line-height: 1.4;
+    font-size: 18px;
+}
+
+h1 a {
+    padding-bottom: 1.25rem;
+}
+
+h1 a, h1 a:hover, #post-comment h3 {
+    color: #222;
+    display: block;
+    width: 100%;
+    font-weight: 400;
+    font-size: 3rem;
+    border-bottom: .25rem solid #F64;
+}
+
+a {
+    color: #222;
+    text-decoration: none;
+    border-bottom: 1px dashed #ccc;
+}
+
+a:hover {
+    border-bottom: 1px dashed #F64;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "league-gothic-1", "league-gothic-2", sans-serif;
+    text-transform: uppercase;
+    font-size: 30px;
+    line-height: 0.9em;
+    margin-bottom: 36px;
+    padding-bottom: 0;
+    letter-spacing: 1.5px;
+    font-weight: 400;
+}
+
+blockquote {
+    font-size: 18px;
+    line-height: 26px;
+    margin-left: 40px;
+    border-left: 2px dashed #ccc;
+}

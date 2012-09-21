@@ -1,0 +1,43 @@
+body {
+    color: #3D3D3D;
+    background-color: #fff;
+    font-family: "adelle-1","adelle-2", 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    line-height: 1.5;
+    font-size: 15px;
+}
+
+.post {
+    font-size: 24px;
+}
+
+h1 a, #post-comment h3 {
+    color: #D10A0A;
+    border-bottom: none;
+}
+
+a {
+    color: #3D3D3D;
+    text-decoration: none;
+    border-bottom: 1px dotted #3D3D3D;
+}
+
+a:hover {
+    border-bottom: 1px dotted #D10A0A;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "proxima-nova-1", "proxima-nova-2", 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    text-transform: uppercase;
+    font-size: 24px;
+    line-height: 0.9em;
+    margin-bottom: 36px;
+    padding-bottom: 0;
+    letter-spacing: 1.5px;
+    font-weight: bold;
+}
+
+blockquote {
+    font-style: italic;
+    font-size: 0.9em;
+    line-height: 1.5;
+}

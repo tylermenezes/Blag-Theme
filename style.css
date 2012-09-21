@@ -1,0 +1,239 @@
+/*
+Theme Name: Six
+Theme URI: https://tyler.menez.es/
+Description: With text in mind.
+Author: Tyler Menezes
+Author URI: https://tyler.menez.es/
+Version: 6.0
+License: CC-BY-SA 6.0
+*/
+
+body {
+    color: #000;
+    background-color: #fff;
+    font-family: "Helvetica Neue", Helvetica, Arial, Sans-Serif;
+    line-height: 1.5;
+}
+
+#entries {
+    padding: 0 40px;
+}
+
+a {
+    text-decoration: none;
+}
+
+h1 {
+    margin: 40px 0 36px 0;
+    padding-bottom: 0;
+}
+
+h2, h3, h4, h5, h6 {
+    margin-bottom: 6px;
+    letter-spacing: -1px;
+    margin-top: 36px;
+}
+
+blockquote {
+}
+
+.article-navigation {
+    width: 100%;
+    display: block;
+}
+
+.article-navigation .previous {
+    float: left;
+}
+
+.article-navigation .next {
+    float: right;
+}
+
+hr.clear {
+    clear: both;
+    visibility: hidden;
+}
+
+body {
+    margin-bottom: -4px;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 20px;
+    padding-left: 0px;
+}
+
+#container {
+    width: 960px;
+    margin-top: 36px;
+    margin-right: auto;
+    margin-bottom: 0;
+    margin-left: auto;
+}
+
+#footer {
+    width: 960px;
+    float: none;
+    margin: 20px auto;
+    font-size: x-small;
+    text-align: center;
+    clear: both;
+}
+
+.post-edit-link {
+    font-size: small;
+}
+
+#entries {
+    width: 960px;
+    float: left;
+    margin-left: 0px;
+}
+
+.linktext {
+    font-size:9px;
+    margin-left:5%;
+    margin-right:5%;
+}
+.linktextarea {
+    font-size:9px;
+    overflow:hidden;
+}
+
+.post ul li {list-style-type: disc; margin-left:37px; }
+
+.post {
+    margin-bottom: 1em;
+}
+
+blockquote {
+    margin-top: 0px;
+    margin-right: 0;
+    margin-bottom: 0px;
+    margin-left: 0;
+    padding-top: 10px;
+    padding-right: 30px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+}
+
+a:link img {
+}
+
+ul {
+    list-style: none;
+    margin-left: 0px;
+    padding-left: 0px;
+    margin-top: 0px;
+}
+
+li.linkcat {
+    list-style-type: none;
+}
+
+.alignleft, .imgleft {
+    float:left;
+    margin-right: 20px;
+    margin-bottom: 10px;
+}
+
+.alignright, .imgright {
+    float: right;
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+
+img.frame {
+    padding: 2px;
+    border: solid 1px #DEE4E5;
+}
+
+
+/* comments*/
+
+.comments_tiny {
+    color: #000;
+    border-bottom: 1px solid silver;
+}
+
+.alt {
+    margin: 0;
+    padding: 0px;
+}
+
+.commentlist {
+    margin-top: 0px;
+
+}
+
+.commentlist li {
+    margin-top: 0px;
+    margin-right: 0;
+    margin-bottom: 0;
+    margin-left: 0px;
+}
+
+.commentlist p {
+    margin: 10px 5px 10px 0;
+}
+
+#commentform p {
+    margin: 5px 0;
+}
+
+.nocomments {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.commentmetadata {
+    margin: 0;
+    display: block;
+}
+
+li.comment {
+    font-weight: bold;
+    padding: 10px;
+    list-style: none;
+}
+
+.commentlist p {
+    font-weight: normal;
+    text-transform: none;
+}
+
+#commentform {
+    margin-top: 30px;
+}
+
+.commentmetadata {
+    font-weight: normal;
+}
+
+.content {
+    margin-bottom: 25px;
+    padding-left: 0px;
+    font-weight: normal;
+}
+
+.commentbox {
+    width: 100%;
+    height: 100px;
+}
+
+/* headings */
+h1 {
+    font-size: 6em;
+    line-height: 0.9em;
+    margin-bottom: 36px;
+    padding-bottom: 0;
+    letter-spacing: -3px;
+}
+
+h2, h3, h4, h5, h6 {
+    font-size: 3em;
+    margin-bottom: 6px;
+    letter-spacing: -1px;
+    margin-top: 36px;
+}

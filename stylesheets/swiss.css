@@ -1,0 +1,49 @@
+body {
+    color: #fff;
+    background-color: #c01d2b;
+    font-family: "nimbus-sans-1","nimbus-sans-2", 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+p {
+    font-size: 18px;
+    line-height: 26px;
+}
+
+#entries {
+}
+
+a {
+    color: #fb8b89;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    color: #fff;
+}
+
+h1 {
+    font-size: 5em;
+    line-height: 0.9em;
+    margin-bottom: 36px;
+    padding-bottom: 0;
+}
+
+h1, h1 a {
+    color: #fff;
+    letter-spacing: -.02em;
+    font-weight: 100;
+}
+
+h2, h3, h4, h5, h6 {
+    font-size: 2em;
+    color: #fff;
+    margin-bottom: 6px;
+    letter-spacing: -1px;
+    margin-top: 36px;
+}
+
+blockquote {
+    line-height: 1.5;
+    margin-left: 20px;
+}
